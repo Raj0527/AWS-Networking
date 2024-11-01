@@ -3,7 +3,7 @@
 # AWS Networking Lab Project
 
 ## Overview
-As an **AWS Solutions Architect**, it's essential to understand the relationship between various AWS networking components and their functionality. In this lab, I have created an **Amazon Virtual Private Cloud (VPC)** with both **public and private subnets**, an **internet gateway**, and a **NAT gateway**. This setup forms the basis of AWS networking architecture, covering critical concepts like infrastructure design, routing, and security.
+As an **AWS Solutions Architect**, it's essential to understand the relationship between various AWS networking components and their functionality. In this project, I have created an **Amazon Virtual Private Cloud (VPC)** with both **public and private subnets**, an **internet gateway**, and a **NAT gateway**. This setup forms the basis of AWS networking architecture, covering critical concepts like infrastructure design, routing, and security.
 
 The final architecture for this lab environment is represented in the following diagram:
 
