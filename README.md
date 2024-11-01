@@ -7,6 +7,7 @@ As an **AWS Solutions Architect**, it's essential to understand the relationship
 
 The final architecture for this lab environment is represented in the following diagram:
 
+![Serverless](https://github.com/user-attachments/assets/76c875a1-6347-443c-be4e-9a4e7ffa3284)
 
 
 ## Objectives
