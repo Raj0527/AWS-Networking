@@ -87,9 +87,5 @@ To access the instance securely:
 ## Conclusion
 This project involved creating a VPC with both public and private subnets, enabling the flexibility to launch tasks and services based on specific accessibility needs. Instances in private subnets can access external resources via a NAT gateway, maintaining isolation and enhancing security.
 
-## Prerequisites
-- An active AWS account with appropriate permissions.
-- Familiarity with AWS networking, EC2, and the AWS Management Console.
-
 ## Author
 I performed this lab as a hands-on project to showcase my AWS networking skills, including VPC setup, subnet configuration, routing, and security best practices.
